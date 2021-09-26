@@ -17,7 +17,7 @@
 ### 4)Kaggle
 ### 5)Jupyter Notebook
 ### 6)HDFS
-### 7)Cloudera-V
+### 7)Cloudera
 ### 8)GitHub
 
 ## CONCEPTS 
